@@ -18,6 +18,7 @@ env/
 Thumbs.db
 .vscode/
 .idea/
+db
 
 # --- Logs, build artifacts ---
 *.log
